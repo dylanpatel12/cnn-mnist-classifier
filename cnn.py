@@ -59,7 +59,7 @@ plt.title('Training vs Validation Accuracy')
 plt.legend()
 plt.show()
 
-# 7. Test on a single example
+# testing on a single example
 
 import numpy as np
 
